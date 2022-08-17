@@ -36,9 +36,6 @@ public:
     const char *get_str() const;
 };
 
-#include <iostream>
-#include <cstring>
-#include "Mystring.h"
 
 // No-args constructor
 Mystring::Mystring() 
